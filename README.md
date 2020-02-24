@@ -13,7 +13,7 @@ Step 5 : to compile use command -  javac WordCheck.java
 
 Step 6 : To run use command - java WordCheck 
 
-I have added the dictionary here that I have used as a sample input dictionary - english3.txt 
+I have added the dictionary here that I have used as a sample input dictionary - english3.zip you can unzip it and use it for reference.
 
 Here is how it looks when ran successfully 
 ![Code test](images/wordcheck2.png)
