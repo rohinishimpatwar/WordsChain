@@ -14,6 +14,7 @@ Step 5 : to compile use command -  javac WordCheck.java
 Step 6 : To run use command - java WordCheck 
           
 Here is how it looks when ran successfully 
-![Code test](images/wordcheck.png)
 ![Code test](images/wordcheck2.png)
-The time and 
+![Code test](images/wordcheck.png)
+
+The time complexity is O(n)
