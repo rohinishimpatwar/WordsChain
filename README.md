@@ -19,4 +19,4 @@ Here is how it looks when ran successfully
 ![Code test](images/wordcheck2.png)
 ![Code test](images/wordcheck.png)
 
-The time and space complexity of Code is O(n)
+
